@@ -196,7 +196,7 @@ h1 {
     background-color:#CCC;
 }
 .pizzaInfo--size.selected {
-    background-color:#399ade;
+    background-color:#f0650a;
     color:#FFF;
 }
 .pizzaInfo--size.selected span {
